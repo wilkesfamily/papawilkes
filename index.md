@@ -4,7 +4,7 @@ layout: cardto
 
 ### Dearest Papa Wilkes
 
-Here are some words that describe you. 
+Here are some words that describe you:
 ```markdown
 `f`aithful
 d`a`d
