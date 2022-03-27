@@ -17,11 +17,7 @@ f`a`vorite
 inve`n`tor
 ```
 
-We love you so much. :) Thank you for being such a great support to us. Happy Birthday!
-
-:confetti_ball: :confetti_ball: :confetti_ball: :confetti_ball: :confetti_ball:
-
-:tada: :tada: :tada: :tada: :tada:
+We love you so much. :) Thank you for being such a great support to us. Happy Birthday!\
 
 #### We love you! 
 
