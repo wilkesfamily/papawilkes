@@ -17,7 +17,7 @@ f`a`vorite
 inve`n`tor
 ```
 
-We love you so much. :) Thank you for being such a great support to us. Happy Birthday!\
+We love you so much. :) Thank you for being such a great support to us. Happy Birthday!
 
 #### We love you! 
 
