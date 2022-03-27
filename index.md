@@ -2,18 +2,11 @@
 layout: cardto
 ---
 
-## **The** Papa Wilkes
-
-
-### The man
-
-This guy is such a great man. 
-
-Just think if people could be a Dad like him.
+### Dearest Papa Wilkes
 
 ```markdown
 
-`fa`bulous
+`fa`ithful
 
 business`m`an
 
@@ -27,6 +20,9 @@ eng`i`neer
 
 inve`n`tor
 ```
+
+We love you so much. :) Thank you for being such a great support to us. Happy Birthday!
+
 
 #### We love you! 
 
